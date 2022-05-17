@@ -2278,6 +2278,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.17-04.42.39:651][337]AssetCheck: New page: Asset Save: multiple assets
 [2022.05.17-04.42.39:651][337]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2022.05.17-04.42.39:651][337]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+<<<<<<< Updated upstream
 [2022.05.17-04.45.12:020][565]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/log.log
 [2022.05.17-04.48.17:541][523]LogLinker: Warning: [AssetLog] E:\Users\Myles\Documents\Unreal Projects\CrossyRoad\Content\Sounds\Sounds\watersplashlow_Cue.uasset: Failed to load '/Game/Sounds/watersplashlow': Can't find file.
 [2022.05.17-04.48.17:541][523]LogLinker: Warning: [AssetLog] E:\Users\Myles\Documents\Unreal Projects\CrossyRoad\Content\Sounds\Sounds\watersplashlow_Cue.uasset: Failed to load '/Game/Sounds/watersplashlow': Can't find file.
@@ -3218,3 +3219,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.17-04.53.26:730][599]LogD3D11RHI: CleanupD3DDevice
 [2022.05.17-04.53.26:735][599]LogExit: Exiting.
 [2022.05.17-04.53.26:800][599]Log file closed, 05/16/22 21:53:26
+=======
+>>>>>>> Stashed changes
